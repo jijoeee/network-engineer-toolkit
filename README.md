@@ -32,7 +32,7 @@ cd tools/subnet_calculator
 python ip_subnet_calculator.py
 ```
 
-## ✨ Current Features (Subnet Calculator)
+## ✨ Current Features (IP Subnet Calculator)
 
 IPv4 & IPv6 Support: Handles both protocols seamlessly using Python's native ipaddress library.
 
