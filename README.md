@@ -29,7 +29,8 @@ Navigate to the tool's directory and launch the GUI:
 Bash
 cd tools/subnet_calculator
 python ip_subnet_calculator.py
-✨ Current Features (Subnet Calculator)
+
+## ✨ Current Features (Subnet Calculator)
 IPv4 & IPv6 Support: Handles both protocols seamlessly using Python's native ipaddress library.
 
 Smart Next-Hop Logic: Accurately calculates next-hops, specifically accounting for /31 and /127 point-to-point links.
