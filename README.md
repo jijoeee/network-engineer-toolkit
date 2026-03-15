@@ -8,10 +8,10 @@ An extensible Python suite for network automation and engineering. Built for rel
 
 ## 🧰 Tools Included
 
-| Tool | Status | Description |
-|------|--------|-------------|
-| **IP Subnet Calculator** | ✅ Active | High-performance IPv4/IPv6 subnetting, VLSM calculation, and smart next-hop logic with a modern Dark Mode GUI. |
-| **Bulk Network Ping Monitor** | ✅ Active | High-speed, parallel ping monitoring for hundreds of devices with a live dark-mode dashboard, Excel integration, and automated CSV reporting. |
+| Tool | Version | Status | Description |
+|------|---------|--------|-------------|
+| **IP Subnet Calculator** | v1.0 | ✅ Active | High-performance IPv4/IPv6 subnetting, VLSM calculation, and smart next-hop logic with a modern Dark Mode GUI. |
+| **Bulk Network Ping Monitor** | v1.0 | ✅ Active | High-speed, parallel ping monitoring for hundreds of devices with a live dark-mode dashboard, Excel integration, and automated CSV reporting. |
 ... In progress ...
 
 ## 🚀 Installation & Setup
