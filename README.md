@@ -21,13 +21,13 @@ An extensible Python suite for network automation and engineering. Built for rel
 git clone [https://github.com/jijoeee/network-engineer-toolkit.git](https://github.com/jijoeee/network-engineer-toolkit.git)
 cd network-engineer-toolkit
 ```
-Install the required GUI dependencies:
+2. Install the required GUI dependencies:
 
 ```Bash
 
 pip install -r requirements.txt
 ```
-2. Navigate to the tool's directory and launch the GUI:
+3. Navigate to the tool's directory and launch the GUI:
 
 ```Bash
 
